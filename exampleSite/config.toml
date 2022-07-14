@@ -1,8 +1,8 @@
 # MAIN base
-baseURL = "https://apsho-hugo.netlify.app/"
+baseURL = "https://msup.com/"
 languageCode = "en-us"
-title = "Apsho | App landing template"
-theme = "apsho"
+title = "MSUP | Managed Service Unified Platform"
+theme = "MSUP"
 
 # Navigation Bar
 [[menu.main]]
