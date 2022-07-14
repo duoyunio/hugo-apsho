@@ -1,8 +1,8 @@
 # MAIN base
 baseURL = "https://msup.com/"
 languageCode = "en-us"
-title = "MSUP | Managed Service Unified Platform"
-theme = "MSUP"
+title = " MSUP | Managed Service Unified Platform"
+theme = " MSUP "
 
 # Navigation Bar
 [[menu.main]]
